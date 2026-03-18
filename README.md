@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently interning as a **WordPress Developer at The Web Pundit** — building client sites with Elementor, Contact Form 7, and custom HTML/CSS
+- 🔭 Currently interning as a **WordPress Developer at TechNetMark Pvt Limited** — building client sites with Elementor, Contact Form 7, and custom HTML/CSS
 - 🔐 Researched **API Security & Vulnerability Analysis** (OWASP Top 10) as my major academic project
 - 🌱 Background in **full-stack web dev** (Flask + PostgreSQL) and **IoT systems** (ESP8266, NodeMCU)
 - 💡 I believe good developers think like attackers — security-first in everything I build
@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitha-poojary-b07430256)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ankithapoojary0612@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://ankitha12-anki.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://ankitha12-anki.github.io/PortFolio/)
 
 ---
 
